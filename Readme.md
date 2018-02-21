@@ -2,6 +2,7 @@
 
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/msoedov/hacker-slides/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/msoedov/hacker-slides.svg?branch=master)](https://travis-ci.org/msoedov/hacker-slides)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmsoedov%2Fhacker-slides.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmsoedov%2Fhacker-slides?ref=badge_shield)
 [![](https://images.microbadger.com/badges/image/msoedov/hacker-slides:latest.svg)](https://microbadger.com/images/msoedov/hacker-slides "Hacker slides image")
 [![Open Source Helpers](https://www.codetriage.com/msoedov/hacker-slides/badges/users.svg)](https://www.codetriage.com/msoedov/hacker-slides)
 
@@ -72,3 +73,7 @@ Getting Help
 
 For **feature requests** and **bug reports**  submit an issue
 to the GitHub issue tracker
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmsoedov%2Fhacker-slides.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmsoedov%2Fhacker-slides?ref=badge_large)
